@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardTitles">
+        <item>I am strong</item>
+        <item>I am good</item>
+        <item>I am one of a kind</item>
+        <item>I am Important</item>
+        <item>I am Special</item>
+        <item>I am Brilliant</item>
+        <item>Each day is a new opportunity to grow and be a better version</item>
+        <item>Every challenge in my life is an opportunity to learn from</item>
+        <item>I have so much to be grateful for</item>
+        <item>Good things are always coming into my life</item>
+        <item>New opportunities await me at every turn</item>
+        <item>I have the courage to follow my heart</item>
+        <item>All my expectation will happen the right time</item>
+        <item>I will not miss my moment</item>
+        <item>Money will meet more in my hand</item>
+        <item>I lack nothing</item>
+        <item>I have more than enough</item>
+        <item>I blessed</item>
+        <item>I Amazing</item>
+        <item>Greatness is in me</item>
+        <item>I am solution provider</item>
+
+
+    </string-array>
+</resources>

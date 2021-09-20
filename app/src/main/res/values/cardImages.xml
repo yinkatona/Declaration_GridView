@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardImages">
+        <item>https://picsum.photos/id/1074/367/267</item>
+        <item>https://picsum.photos/id/1015/367/267</item>
+        <item>https://picsum.photos/id/1011/367/267</item>
+        <item>https://picsum.photos/id/1019/367/267</item>
+        <item>https://picsum.photos/id/1018/367/267</item>
+        <item>https://picsum.photos/id/1023/367/267</item>
+        <item>https://picsum.photos/id/1024/367/267</item>
+        <item>https://picsum.photos/id/1035/367/267</item>
+        <item>https://picsum.photos/id/1044/367/267</item>
+        <item>https://picsum.photos/id/1047/367/267</item>
+        <item>https://picsum.photos/id/118/367/267</item>
+        <item>https://picsum.photos/id/12/367/267</item>
+        <item>https://picsum.photos/id/124/367/267</item>
+        <item>https://picsum.photos/id/130/367/267</item>
+        <item>https://picsum.photos/id/131/367/267</item>
+        <item>https://picsum.photos/id/1045/367/267</item>
+        <item>https://picsum.photos/id/1055/367/267</item>
+        <item>https://picsum.photos/id/1053/367/267</item>
+        <item>https://picsum.photos/id/1043/367/267</item>
+        <item>https://picsum.photos/id/1039/367/267</item>
+        <item>https://picsum.photos/id/1048/367/267</item>
+    </string-array>
+</resources>
+
